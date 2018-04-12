@@ -80,12 +80,18 @@
         </a>
       </li>
     </ul>
+    <Test/>
   </div>
 </template>
 
 <script>
+import Test from '../test/Test';
+
 export default {
   name: 'HelloWorld',
+  components: {
+    Test,
+  },
   data() {
     return {
       msg: 'Welcome to Your Vue.js App',

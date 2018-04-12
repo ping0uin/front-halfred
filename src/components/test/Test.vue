@@ -1,10 +1,12 @@
 <template>
-
+  <div>
+    <v-btn color="success">Success</v-btn>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'footer',
+  name: 'test',
 };
 </script>
 
