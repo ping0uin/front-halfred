@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 
-import HelloWorld from '@/components/Landing/HelloWorld';
+import Landing from '@/components/Landing/Landing';
 
 Vue.use(Router);
 
@@ -10,7 +10,7 @@ export default new Router({
     {
       path: '/',
       name: 'home',
-      component: HelloWorld,
+      component: Landing,
     },
   ],
 });
