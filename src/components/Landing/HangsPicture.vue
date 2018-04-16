@@ -14,7 +14,7 @@
           class="blue lighten-2 mt-5"
           dark
           large
-          href="/pre-made-themes"
+          href="/front-alfred"
         >
           Créez votre compte
         </v-btn>

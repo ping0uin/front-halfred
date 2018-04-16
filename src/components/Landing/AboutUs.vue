@@ -26,7 +26,7 @@
               pro.
               <a class="blue--text" href="">
                 Contactez-nous
-              </a> pour plus d'information.
+              </a> pour plus d'informations.
             </v-card-text>
           </v-card>
         </v-flex>

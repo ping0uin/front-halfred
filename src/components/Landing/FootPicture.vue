@@ -5,12 +5,12 @@
         <div class="headline white--text mb-3 text-xs-center">
           Ne soyez plus seul pour apprendre à connaître vos limites
         </div>
-        <em>Adopter Halfred dès aujourd'hui</em>
+        <em>Adoptez Halfred dès aujourd'hui</em>
         <v-btn
           class="blue lighten-2 mt-5"
           dark
           large
-          href="/pre-made-themes"
+          href="/front-halfred"
         >
           Créez votre compte
         </v-btn>
