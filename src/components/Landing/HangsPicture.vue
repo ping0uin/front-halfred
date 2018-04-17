@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-parallax :src="require('@/assets/hero.jpeg')" height="600">
+    <v-parallax :src="require('@/assets/test.jpeg')" height="600">
       <v-layout
         column
         align-center

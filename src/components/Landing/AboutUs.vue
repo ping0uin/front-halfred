@@ -22,7 +22,7 @@
               Si vous êtes un professionnel et que vous souhaitez ouvrir cette
               solution à un ensemble de patients, nous avons des solutions
               professionnelles adaptées qui vous offrirons en plus des
-              suivi de groupe, et des fonctionnalités adaptées à un usage
+              suivis de groupe, et des fonctionnalités adaptées à un usage
               pro.
               <a class="blue--text" href="">
                 Contactez-nous

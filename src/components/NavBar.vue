@@ -11,7 +11,7 @@
         <v-btn flat>Mes alertes</v-btn>
       </v-toolbar-items>
       <v-spacer></v-spacer>
-      <v-btn flat>Mon profil</v-btn>
+      <v-btn flat>Se Connecter</v-btn>
     </v-toolbar>
 </template>
 
